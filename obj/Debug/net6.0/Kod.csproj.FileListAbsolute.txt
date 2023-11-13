@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Итоговая КР1\Kod\bin\Debug\net6.0\Kod.exe
+C:\Users\User\Desktop\Итоговая КР1\Kod\bin\Debug\net6.0\Kod.deps.json
+C:\Users\User\Desktop\Итоговая КР1\Kod\bin\Debug\net6.0\Kod.runtimeconfig.json
+C:\Users\User\Desktop\Итоговая КР1\Kod\bin\Debug\net6.0\Kod.dll
+C:\Users\User\Desktop\Итоговая КР1\Kod\bin\Debug\net6.0\Kod.pdb
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.AssemblyInfo.cs
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.dll
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\refint\Kod.dll
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.pdb
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\Kod.genruntimeconfig.cache
+C:\Users\User\Desktop\Итоговая КР1\Kod\obj\Debug\net6.0\ref\Kod.dll
